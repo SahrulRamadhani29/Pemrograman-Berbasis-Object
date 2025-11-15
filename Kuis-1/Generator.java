@@ -3,7 +3,8 @@ public class Generator {
     private int voltase;
 
 
-    public Generator() {}
+    public Generator() {
+    }
     public Generator(int daya, int voltase) {
         this.daya = daya;
         this.voltase = voltase;

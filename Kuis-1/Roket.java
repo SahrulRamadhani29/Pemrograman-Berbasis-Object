@@ -2,7 +2,8 @@ public class Roket {
     private String Tipe;
     private int power;
 
-    public Roket (){}
+    public Roket (){
+    }
     public Roket (String Tipe, int power) {
         this.Tipe = Tipe;
         this.power = power;

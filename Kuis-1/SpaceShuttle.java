@@ -4,7 +4,8 @@ private int Berat;
 private Roket RoketUtama;
 private Generator GeneratorUtama;
 
-    public SpaceShuttle() {}
+    public SpaceShuttle() {
+    }
     public SpaceShuttle(String kode, int Berat, Roket RoketUtama, Generator GeneratorUtama) {
         this.kode = kode;
         this.Berat = Berat;
